@@ -8,8 +8,9 @@ header{
 color: white;
 
 }
-.head-img{ border-image-width: 50%;
-    width: 50%;
-    height: 50%;
+.cabeçalho{
+color: white;
+display: flex;
+justify-content: space-around;
 
 }
