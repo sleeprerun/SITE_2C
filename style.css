@@ -3,23 +3,17 @@ body{
     color: white;
 }
 
-header{
+.cabeçalho{ 
+    
     background-color: rgb(0, 189, 202);
     color: white;
 
 }
-.cabeçalho2{
-
-    background-color:rgb(0, 189, 202);
-        display: flex;
-        justify-content:center;
-        align-items: center;
-    }
 
 .cabeçalho-item{
     
     display: flex;
-    justify-content:flex-end;
+    justify-content:right;
     align-items: center;
     
 
