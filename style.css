@@ -12,9 +12,7 @@ header{
 
     background-color: rgb(80, 137, 175);  
     color: white;
-    display: flex;
-    justify-content: space-around;
-
+    
 }
 .cabeçalho-item{
     background-color: rgb(80, 137, 175);  
