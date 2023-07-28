@@ -3,14 +3,14 @@ body{
     color: white;
 }
 
-.cabeçalho{ 
+.cabecalho{ 
     
     background-color: rgb(0, 189, 202);
     color: white;
 
 }
 
-.cabeçalho-item{
+.cabecalho-lista{
     
     display: inline-block;
     justify-content:end
