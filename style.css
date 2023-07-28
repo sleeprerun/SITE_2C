@@ -10,13 +10,12 @@ body{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    padding: 24px 0;
 
 }
 
 .foto-um{
-width: 8%;
-
-
+    width: 8%;
 
 }
 .pimenta2 {
