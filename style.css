@@ -12,13 +12,6 @@ body{
     align-items: center;
 }
 
-.cabecalho-lista{
-    
-    display: inline-block;
-    justify-content:end
-    padding: 0 100px;
-
-}
 .foto-um{
 width: 10%;
 
