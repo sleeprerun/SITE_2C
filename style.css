@@ -18,13 +18,13 @@ body{
     width: 8%;
 
 }
-.pimenta-texto-um{
+.pimenta1tx{
     font-family: Arial, Helvetica, sans-serif;
     margin: 0%;
     padding: 0%;
     
 }
-.pimenta-texto-dois{
+.pimenta2tx{
     font-family: Arial, Helvetica, sans-serif;
     margin: 0%;
     padding: 0%;
@@ -32,6 +32,7 @@ body{
 }
 .foto-dois{
 width: 8%;
+display: flex;
 justify-content: space-around;
 align-items: end;
 padding: 24px 0;
