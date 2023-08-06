@@ -31,6 +31,9 @@ body{
 
 }
 .foto-dois{
-width: 5%;
+width: 8%;
+justify-content: space-around;
+align-items: end;
+padding: 24px 0;
 
 }
