@@ -31,8 +31,14 @@ body{
 
 }
 .foto-dois{
-width: 8%;
-float: right;
+width: 20%;
+float: right ;
 margin: 0;
 }
 
+.pimenta-texto-dois{
+    width: 70%;
+    float:left ;
+    margin: 0;
+
+}
