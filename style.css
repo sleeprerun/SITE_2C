@@ -43,7 +43,8 @@ margin: 0;
 
 }
 .pimentinha.jpeg{
-    float:left ;
+    float:right ;
+    display: flex;
     margin: 0;
 }
 .tx-tres{
@@ -51,6 +52,7 @@ margin: 0;
     font-family: Arial, Helvetica, sans-serif;
     margin: 0%;
     padding: 0%;
+
 }
 .tx-quatro{
     width: 70%;
@@ -64,4 +66,5 @@ margin: 0;
     font-family: Arial, Helvetica, sans-serif;
     margin: 0%;
     padding: 0%;
+    
 }
