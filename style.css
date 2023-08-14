@@ -43,6 +43,9 @@ margin: 0;
 
 }
 .pimentinha.jpeg{
+    display: flex;
+    justify-content: space-around;
+    align-items: end;
     float:right ;
     margin: 0;
 }
